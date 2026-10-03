@@ -8,10 +8,9 @@ body {
     justify-content: center;
     align-items: center;
 }
-.container {
+article {
     display: flex;
-    gap: 20px;
-   
+}  
     .square-box1{
         width: 300px;
         height: 500px;
@@ -52,6 +51,4 @@ body {
         background-color: #ffffff;
     }
 
-    
-}
  
